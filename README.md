@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://graph.org/file/1e359d4cbc0da5acefd40-b7c5ef987db83761c1.jpg" alt="Safari-Filter-Bot Logo">
+  <img src="https://graph.org/file/1e359d4cbc0da5acefd40-b7c5ef987db83761c1.jpg" alt="AJEET-Filter-Bot Logo">
 </p>
 <h1 align="center">
   𝑨𝒋𝒆𝒆𝒕-𝑭𝒊𝒍𝒕𝒆𝒓-𝑩𝒐𝒕
